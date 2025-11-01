@@ -1,1 +1,1 @@
-# PaisaBazar_creditscore_classification
+# Banking Risk Analytics
